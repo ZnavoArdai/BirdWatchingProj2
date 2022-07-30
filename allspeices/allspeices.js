@@ -21,7 +21,7 @@ let counterImg=1;
 birds1.forEach(item => {
   
     displaySpeices.innerHTML+=` <div class="card col-md-2  col-sm-6 text-dark birdcontain shadow m-2" id="${item.name}" >
-    <img src="/allspeices/allspicesImges/${counterImg++}.jpg" class="card-img-top" alt="...">
+    <img src="allspeices/allspicesImges/${counterImg++}.jpg" class="card-img-top" alt="...">
     <div class="card-body">
       <h5 class="card-title birdsname ">${item.name}</h5>
       <a  class="btn btn-light info">🔎</a>

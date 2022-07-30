@@ -20,7 +20,7 @@ onload=function postPhotogrpher(){
 
         photoDisplay.innerHTML=`      <div class="col">
         <div class="card">
-          <img src="/home/homeimages/h2.jpg" class="card-img-top" alt="...">
+          <img src="home/homeimages/h2.jpg" class="card-img-top" alt="...">
           <div class="card-body">
           <a  class="btn mt-2">👍🏽 👎🏽</a>
 
@@ -31,7 +31,7 @@ onload=function postPhotogrpher(){
       </div>
       <div class="col">
         <div class="card">
-          <img src="/home/homeimages/h3.jpg" class="card-img-top" alt="...">
+          <img src="home/homeimages/h3.jpg" class="card-img-top" alt="...">
           <div class="card-body">
           <a  class="btn mt-2">👍🏽 👎🏽</a>
           <h5 class="card-title">${res[1].interpretedBy}</h5>
@@ -41,7 +41,7 @@ onload=function postPhotogrpher(){
       </div>
       <div class="col">
         <div class="card">
-          <img src="/home/homeimages/h4.jpg" class="card-img-top" alt="...">
+          <img src="home/homeimages/h4.jpg" class="card-img-top" alt="...">
           <div class="card-body">
           <a  class="btn mt-2">👍🏽 👎🏽</a>
           <h5 class="card-title">${res[2].interpretedBy}</h5>
@@ -51,7 +51,7 @@ onload=function postPhotogrpher(){
       </div>
       <div class="col">
         <div class="card">
-          <img src="/home/homeimages/h5.jpg" class="card-img-top" alt="...">
+          <img src="home/homeimages/h5.jpg" class="card-img-top" alt="...">
           <div class="card-body">
           <a  class="btn mt-2">👍🏽 👎🏽</a>
 
