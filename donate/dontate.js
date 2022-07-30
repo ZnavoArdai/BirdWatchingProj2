@@ -56,7 +56,7 @@ function doante(){
 doante()
 
 
-onload=function btnDonateFunc(){
+function btnDonateFunc(){
 
   btndonateeId.addEventListener("click",()=>{
 
@@ -65,5 +65,6 @@ onload=function btnDonateFunc(){
 
   })
 }
+btnDonateFunc()
 // place_of_birth
 // aliases
